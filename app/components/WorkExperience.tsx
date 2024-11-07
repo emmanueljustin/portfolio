@@ -55,7 +55,7 @@ export default function WorkExperience() {
             <p className="mt-5 text-lg text-gray-900 text-opacity-65 font-mono">
               My internship in LEENTech I was tasked in creating a employee attendance tracker mobile application using Flutter & Firebase
               in just one month I have finished the attendance tracker with the fingerprint clock in feature and realtime data update I
-              also successfully integrated authentication using firebase.
+              also successfully integrated authentication using Firebase.
             </p>
           </div>
           <div className='flex justify-center items-center'>
