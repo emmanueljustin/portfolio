@@ -15,8 +15,11 @@ export default function Contact() {
               <a href="https://ph.linkedin.com/in/ej-atienza" className=" underline" target="_blank">
                 <i className="fa-brands fa-linkedin fa-xl mr-3" />ej-atienza
               </a>
+              <a href="https://github.com/emmanueljustin" className=" underline" target="_blank">
+                <i className="fa-brands fa-github fa-xl mr-3" />emmanueljustin
+              </a>
               <p><i className="fa-solid fa-location-dot fa-xl mr-3" />Taguig City, NCR</p>
-              <p><i className="fa-solid fa-phone fa-xl mr-3" />+63 976 465 8681 (Globe/Gomo)</p>
+              <p><i className="fa-solid fa-phone fa-xl mr-3" />(+63) 976 465 8681</p>
               <p><i className="fa-solid fa-envelope fa-xl mr-3" />ejatienza01@gmail.com</p>
             </div>
 
