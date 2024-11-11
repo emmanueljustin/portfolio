@@ -3,7 +3,7 @@ import EmailForm from "./client_components/EmailForm";
 export default function Contact() {
   return (
     <>
-      <div className="px-5 sm:px-20 py-20 w-full bg-[#333333]">
+      <div className="px-5 sm:px-20 pt-20 w-full bg-[#333333]">
         <div className="flex flex-col justify-center items-center">
           <h1 id="Contact Me" className="text-[35px] text-white font-extrabold">Get In Touch</h1>
           <p className='mt-5 text-lg text-center text-white text-opacity-65 font-mono'>
@@ -25,6 +25,9 @@ export default function Contact() {
 
             <EmailForm />
 
+          </div>
+          <div className="mt-20">
+            <h1 className="text-white font-semibold">&copy; 2024 Atienza. All Rights Reserved.</h1>
           </div>
         </div>
       </div>
