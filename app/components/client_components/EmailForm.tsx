@@ -131,7 +131,7 @@ export default function EmailForm() {
             <div className="">
               <input
                 type={!loading ? `submit` : 'button'}
-                className={`w-full flex justify-center items-center p-3 rounded-sm text-white font-semibold font-mono shadow-lg ${ !loading ? `bg-sky-400 shadow-sky-400/50 active:bg-opacity-65` : `bg-gray-400 shadow-gray-400/50`}  hover:cursor-pointer`}
+                className={`w-full flex justify-center items-center p-3 rounded-sm text-white font-semibold font-mono shadow-lg ${ !loading ? `bg-sky-400 hover:shadow-sky-400/50 active:bg-opacity-65` : `bg-gray-400 shadow-gray-400/50`}  hover:cursor-pointer`}
                 value={loading ? `Sending` : `Send`}
               />
               {/* <i className="fa-solid fa-paper-plane ml-2" /> */}

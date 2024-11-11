@@ -5,7 +5,7 @@ export default function Contact() {
     <>
       <div className="px-5 sm:px-20 py-20 w-full bg-[#333333]">
         <div className="flex flex-col justify-center items-center">
-          <h1 className="text-[35px] text-white font-extrabold">Get In Touch</h1>
+          <h1 id="Contact Me" className="text-[35px] text-white font-extrabold">Get In Touch</h1>
           <p className='mt-5 text-lg text-center text-white text-opacity-65 font-mono'>
             Reach out to me so that we can communicate
           </p>

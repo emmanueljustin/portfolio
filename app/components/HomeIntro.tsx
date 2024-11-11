@@ -24,7 +24,7 @@ export default function HomeIntro() {
               <div className='mt-10 mb-10 md:mb-none'>
                 <a 
                   href='/emmanuel-dev-cv.pdf'
-                  className='flex justify-center items-center w-full md:w-3/4 p-3 bg-green-500 rounded-sm text-white font-semibold font-mono shadow-lg shadow-green-500/50 active:bg-opacity-65'
+                  className='flex justify-center items-center w-full md:w-3/4 p-3 bg-green-500 rounded-sm text-white font-semibold font-mono shadow-lg hover:shadow-green-500/50 active:bg-opacity-65'
                   target="_blank"
                 >
                   Download my CV<i className="fa-solid fa-download ml-2" />
