@@ -7,7 +7,7 @@ export default function WorkExperience() {
     <>
       <div className='py-20 px-5 sm:px-20 w-full'>
         <div className='flex flex-col justify-center items-center'>
-          <div className='w-full px-20 md:px-0 md:w-1/2 text-center'>
+          <div className='w-full md:px-0 md:w-1/2 text-center'>
             <h1 id="Experience" className='text-[35px] text-gray-900 font-extrabold'>Work Experience</h1>
             <p className='mt-5 text-lg text-gray-900 text-opacity-65 font-mono'>
               Here is the list and responsibilities of the company that i worked with in my 3 years of working in the IT Industry.

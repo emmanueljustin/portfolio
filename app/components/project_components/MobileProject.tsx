@@ -9,7 +9,9 @@ export default function MobileProjects() {
     <>
       <div className="px-10 lg:px-20 mt-10 grid grid-cols-1 gap-20 lg:grid-cols-2 lg:gap-8">
         <div className="grid grid-cols-1 gap-5 md:grid-cols-2 md:gap-10">
-          <AndroidMock img={peddlr} />
+          <div className='flex w-full justify-center'>
+            <AndroidMock img={peddlr} />
+          </div>
           <div className='text-center lg:text-left'>
             <a 
               className='block md:hidden'
@@ -38,7 +40,9 @@ export default function MobileProjects() {
         </div>
 
         <div className="grid grid-cols-1 gap-5 md:grid-cols-2 md:gap-10">
-          <AndroidMock img={clicked} />
+          <div className='flex w-full justify-center'>
+            <AndroidMock img={clicked} />
+          </div>
           <div className='text-center lg:text-left'>
             <a 
               className='my-10 mx-auto flex md:hidden justify-center w-1/2 items-center bg-green-500 shadow-lg px-3 py-2 rounded-sm text-white font-bold hover:shadow-green-500/50 active:bg-opacity-65'
