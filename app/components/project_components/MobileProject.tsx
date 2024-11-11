@@ -7,7 +7,7 @@ import AndroidMock from './AndroidMock';
 export default function MobileProjects() {
   return (
     <>
-      <div className="px-10 lg:px-20 mt-10 grid grid-cols-1 gap-20 lg:grid-cols-2 lg:gap-8">
+      <div className="px-3 lg:px-20 mt-10 grid grid-cols-1 gap-20 lg:grid-cols-2 lg:gap-8">
         <div className="grid grid-cols-1 gap-5 md:grid-cols-2 md:gap-10">
           <div className='flex w-full justify-center'>
             <AndroidMock img={peddlr} />
