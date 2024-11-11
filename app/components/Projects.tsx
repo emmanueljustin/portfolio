@@ -8,9 +8,9 @@ export default function Projects() {
 
   return (
     <>
-      <div className="py-20 w-full overflow-hidden">
+      <div className="py-20 px-5 w-full overflow-hidden">
         <div className="flex flex-col justify-center items-center">
-          <div className='mb-10 w-1/2 text-center'>
+          <div className='mb-10 w-full md:w-1/2 text-center'>
             <h1 id="Projects" className="text-[35px] text-gray-900 font-extrabold">Projects/Work</h1>
             <p className="mt-5 text-lg text-gray-900 text-opacity-65 font-mono">
               Here are the list of projects that I created and participated in development
