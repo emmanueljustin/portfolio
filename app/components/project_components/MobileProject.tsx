@@ -7,12 +7,12 @@ import AndroidMock from './AndroidMock';
 export default function MobileProjects() {
   return (
     <>
-      <div className="px-3 lg:px-20 mt-10 grid grid-cols-1 gap-20 lg:grid-cols-2 lg:gap-8">
-        <div className="grid grid-cols-1 gap-5 md:grid-cols-2 md:gap-10">
+      <div className="px-5 md:px-10 lg:px-0 lg:w-[70%] mt-10 grid grid-cols-1 gap-20">
+        <div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3 md:gap-20">
           <div className='flex w-full justify-center'>
             <AndroidMock img={peddlr} />
           </div>
-          <div className='text-center lg:text-left'>
+          <div className='text-center lg:text-left lg:col-span-2'>
             <a 
               className='block md:hidden'
               href='https://play.google.com/store/search?q=peddlr+app&c=apps&hl=en'
@@ -39,11 +39,11 @@ export default function MobileProjects() {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 gap-5 md:grid-cols-2 md:gap-10">
+        <div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3 md:gap-20">
           <div className='flex w-full justify-center'>
             <AndroidMock img={clicked} />
           </div>
-          <div className='text-center lg:text-left'>
+          <div className='text-center lg:text-left lg:col-span-2'>
             <a 
               className='my-10 mx-auto flex md:hidden justify-center w-1/2 items-center bg-green-500 shadow-lg px-3 py-2 rounded-sm text-white font-bold hover:shadow-green-500/50 active:bg-opacity-65'
               href='https://github.com/emmanueljustin/smart-app'
@@ -65,7 +65,7 @@ export default function MobileProjects() {
               approach.
             </p>
             <a 
-              className='mt-10 hidden md:flex md:mx-auto lg:mx-0 justify-center w-full items-center bg-green-500 shadow-lg px-3 py-2 rounded-sm text-white font-bold hover:shadow-green-500/50 active:bg-opacity-65'
+              className='mt-10 hidden md:flex md:mx-auto lg:mx-0 justify-center w-full lg:w-1/2 items-center bg-green-500 shadow-lg px-3 py-2 rounded-sm text-white font-bold hover:shadow-green-500/50 active:bg-opacity-65'
               href='https://github.com/emmanueljustin/smart-app'
               target='_blank'
             >

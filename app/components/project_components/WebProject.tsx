@@ -8,7 +8,7 @@ import bashscript from "../../assets/projects/bash-script.png";
 export default function WebProjects() {
   return (
     <>
-      <div className="px-10 lg:px-20 mt-10 grid grid-cols-1 md:grid-cols-2 gap-8">
+      <div className="px-2 sm:px-10 lg:px-20 mt-10 grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="flex flex-col justify-stretch bg-white rounded-md shadow-md p-5 group">
           <div className="overflow-hidden rounded-md">
             <Image
