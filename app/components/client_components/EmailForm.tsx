@@ -41,7 +41,7 @@ export default function EmailForm() {
             setLoading(false);
           },
           (error) => {
-            console.log('FAILED...', error.text);
+            console.log('FAILED: ', error);
             setMessage('error');
             setLoading(false);
           },
