@@ -46,7 +46,7 @@ export default function WebProjects() {
             <Image
               src={project2}
               className="object-cover transition-transform duration-300 ease-in-out group-hover:scale-105"
-              alt="project1"
+              alt="project2"
             />
           </div>
           <div className="mt-5 flex flex-wrap gap-3">
@@ -83,7 +83,7 @@ export default function WebProjects() {
             <Image
               src={laravel}
               className="object-cover transition-transform duration-300 ease-in-out group-hover:scale-105"
-              alt="project1"
+              alt="project3"
             />
           </div>
           <div className="mt-5 flex flex-wrap gap-3">
@@ -111,7 +111,7 @@ export default function WebProjects() {
             <Image
               src={springboot}
               className="object-cover transition-transform duration-300 ease-in-out group-hover:scale-105"
-              alt="project1"
+              alt="project4"
             />
           </div>
           <div className="mt-5 flex flex-wrap gap-3">
@@ -140,7 +140,7 @@ export default function WebProjects() {
             <Image
               src={bashscript}
               className="object-cover transition-transform duration-300 ease-in-out group-hover:scale-105"
-              alt="project1"
+              alt="project5"
             />
           </div>
           <div className="mt-5 flex flex-wrap gap-3">

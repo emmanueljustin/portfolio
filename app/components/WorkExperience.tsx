@@ -70,7 +70,7 @@ export default function WorkExperience() {
           <Image 
               src={placeHolder1}
               className='object-cover rounded-md h-[350px] w-full'
-              alt=''
+              alt='Image from Freepik'
             />
           </div>
 
@@ -78,7 +78,7 @@ export default function WorkExperience() {
           <Image 
               src={placeHolder2}
               className='object-cover rounded-md h-[350px] w-full'
-              alt=''
+              alt='Image from Freepik'
             />
           </div>
           <div className='flex flex-col justify-center items-start'>
@@ -104,7 +104,7 @@ export default function WorkExperience() {
           <Image 
               src={placeHolder1}
               className='object-cover rounded-md h-[350px] w-full'
-              alt=''
+              alt='Image from Freepik'
             />
           </div>
         </div>
