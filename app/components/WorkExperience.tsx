@@ -9,9 +9,6 @@ export default function WorkExperience() {
         <div className='flex flex-col justify-center items-center'>
           <div className='w-full md:px-0 md:w-1/2 text-center'>
             <h1 id="Experience" className='text-[35px] text-gray-900 font-extrabold'>Work Experience</h1>
-            <p className='mt-5 text-lg text-gray-900 text-opacity-65 font-mono'>
-              Here is the list and responsibilities of the company that i worked with in my 3 years of working in the IT Industry.
-            </p>
           </div>
         </div>
         <ul className="block mt-20 mx-auto w-full md:w-3/4 lg:hidden">
