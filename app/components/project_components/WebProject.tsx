@@ -89,6 +89,11 @@ export default function WebProjects() {
           <div className="mt-5 flex flex-wrap gap-3">
             <span className="text-xs text-[#EB4432] font-bold border border-[#EB4432] shadow-md shadow-[#EB4432]/50 rounded-md px-2 py-1">Laravel</span>
             <span className="text-xs text-white font-bold bg-[#4F5B93] shadow-md shadow-[#4F5B93]/50 rounded-md px-2 py-1">PHP</span>
+            <span className="flex text-xs font-bold bg-[#f2f2f2] shadow-md rounded-md px-2 py-1">
+              <p className="text-[#00758F]">My</p>
+              <p className="text-[#F29111]">SQL</p>
+            </span>
+            <span className="text-xs text-white font-bold bg-[#1D63ED] shadow-md shadow-[#1D63ED]/50 rounded-md px-2 py-1">Docker</span>
           </div>
           <h1 className="mt-8 text-[26px] font-bold">Laravel Api</h1>
           <p className="mb-5 text-md sm:text-lg text-gray-900 text-opacity-65 font-mono">
@@ -117,6 +122,10 @@ export default function WebProjects() {
           <div className="mt-5 flex flex-wrap gap-3">
             <span className="text-xs text-white font-bold bg-[#6DB33F] shadow-md shadow-[#6DB33F]/50 rounded-md px-2 py-1">Spring Boot</span>
             <span className="text-xs text-white font-bold bg-[#5382A1] shadow-md shadow-[#5382A1]/50 rounded-md px-2 py-1">Java</span>
+            <span className="flex text-xs font-bold bg-[#f2f2f2] shadow-md rounded-md px-2 py-1">
+              <p className="text-[#00758F]">My</p>
+              <p className="text-[#F29111]">SQL</p>
+            </span>
           </div>
           <h1 className="mt-8 text-[26px] font-bold">Cl!cked V2 Api</h1>
           <p className="mb-5 text-md sm:text-lg text-gray-900 text-opacity-65 font-mono">
