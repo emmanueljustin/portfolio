@@ -27,7 +27,7 @@ export default function Testimonials() {
             />
 
             <QuoteContainer 
-              testimonial="My time working with Emmanuel was truly incredible. Out collaboration in achieving the goals for the task was impressive,
+              testimonial="My time working with Emmanuel was truly incredible. Our collaboration in achieving the goals for the task was impressive,
                   and he was always very responsive to my concerns. He has a great ability to adapt to technical challenges. thanks to his
                   flexibility. I look forward to the opportunity to work with him again in the future!"
               name="Eubie Jay Clemente"
