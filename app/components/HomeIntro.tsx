@@ -11,7 +11,7 @@ export default function HomeIntro() {
               <Image 
                 src={profilePic}
                 className='object-cover rounded-full h-[250px] w-[250px]'
-                alt='Emmanuel Justin Atienza'
+                alt='Emmanuel lg'
               />
             </div>
             <div className='relative flex flex-col justify-center select-none text-center lg:text-left'>
@@ -35,7 +35,7 @@ export default function HomeIntro() {
               <Image 
                 src={profilePic}
                 className='object-cover rounded-full h-[400px] w-[400px]'
-                alt='Emmanuel Justin Atienza'
+                alt='Emmanuel sm'
               />
             </div>
           </div>
