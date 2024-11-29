@@ -18,9 +18,9 @@ export default function MobileProjects() {
               href='https://play.google.com/store/search?q=peddlr+app&c=apps&hl=en'
               target='_blank'
             >
-              <Image className='mx-auto w-44' src={googleplay} alt='google play' />
+              <Image className='mx-auto w-44' src={googleplay} alt='google play big' />
             </a>  
-            <h1 className='text-[30px] font-bold'>Peddlr Mobile App</h1>
+            <h2 className='text-[30px] font-bold'>Peddlr Mobile App</h2>
             <div className="mt-5 flex flex-wrap justify-center lg:justify-start gap-3">
               <span className="text-xs text-white font-bold bg-[#027DFD] shadow-md shadow-[#027DFD]/50 rounded-md px-2 py-1">Flutter</span>
               <span className="text-xs text-white font-bold bg-[#D9534F] shadow-md shadow-[#D9534f]/50 rounded-md px-2 py-1">Confidential</span>
@@ -34,7 +34,7 @@ export default function MobileProjects() {
               href='https://play.google.com/store/search?q=peddlr+app&c=apps&hl=en'
               target='_blank'
             >
-              <Image className='mx-0 md:mx-auto lg:mx-0 w-44' src={googleplay} alt='google play' />
+              <Image className='mx-0 md:mx-auto lg:mx-0 w-44' src={googleplay} alt='google play sm' />
             </a>
           </div>
         </div>
@@ -52,7 +52,7 @@ export default function MobileProjects() {
               View
               <i className="fa-brands fa-github fa-lg ml-2" />
             </a>
-            <h1 className='text-[30px] font-bold'>CL!CKED Mobile App</h1>
+            <h2 className='text-[30px] font-bold'>CL!CKED Mobile App</h2>
             <div className="mt-5 flex flex-wrap justify-center lg:justify-start gap-3">
               <span className="text-xs text-white font-bold bg-[#027DFD] shadow-md shadow-[#027DFD]/50 rounded-md px-2 py-1">Flutter</span>
               <span className="text-xs text-white font-bold bg-[#0AC7EF] shadow-md shadow-[#0AC7EF]/50 rounded-md px-2 py-1">Flutter Hive</span>

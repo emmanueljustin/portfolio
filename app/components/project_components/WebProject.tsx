@@ -25,7 +25,7 @@ export default function WebProjects() {
             <span className="text-xs text-[#FED100] font-bold bg-gradient-to-br from-[#47caff] to-[#bd34fe] shadow-md shadow-[#235A97]/50 rounded-md px-2 py-1">Vite</span>
             <span className="text-xs text-white font-bold bg-[#6DB33F] shadow-md shadow-[#6DB33F]/50 rounded-md px-2 py-1">Spring Boot</span>
           </div>
-          <h1 className="mt-8 text-[26px] font-bold">Cl!cked Web App</h1>
+          <h2 className="mt-8 text-[26px] font-bold">Cl!cked Web App</h2>
           <p className="mb-5 text-md sm:text-lg text-gray-900 text-opacity-65 font-mono">
             A travel and tour website that showcases tourist spots and famous travel destinations.
           </p>
@@ -54,7 +54,7 @@ export default function WebProjects() {
             <span className="text-xs text-white font-bold bg-[#235A97] shadow-md shadow-[#235A97]/50 rounded-md px-2 py-1">TypeScript</span>
             <span className="text-xs text-white font-bold bg-[#38BDF8] shadow-md shadow-[#38BDF8]/50 rounded-md px-2 py-1">Tailwind CSS</span>
           </div>
-          <h1 className="mt-8 text-[26px] font-bold">Hipe Payslip Signer</h1>
+          <h2 className="mt-8 text-[26px] font-bold">Hipe Payslip Signer</h2>
           <p className="mb-5 text-md sm:text-lg text-gray-900 text-opacity-65 font-mono">
             A payslip signer made by me and my co-worker 
             <a
@@ -95,7 +95,7 @@ export default function WebProjects() {
             </span>
             <span className="text-xs text-white font-bold bg-[#1D63ED] shadow-md shadow-[#1D63ED]/50 rounded-md px-2 py-1">Docker</span>
           </div>
-          <h1 className="mt-8 text-[26px] font-bold">Laravel Api</h1>
+          <h2 className="mt-8 text-[26px] font-bold">Laravel Api</h2>
           <p className="mb-5 text-md sm:text-lg text-gray-900 text-opacity-65 font-mono">
             A Laravel api that is uses MVC structure and passport authentication for user aurthorization and also integrated with Gemini Api.
           </p>
@@ -127,7 +127,7 @@ export default function WebProjects() {
               <p className="text-[#F29111]">SQL</p>
             </span>
           </div>
-          <h1 className="mt-8 text-[26px] font-bold">Cl!cked V2 Api</h1>
+          <h2 className="mt-8 text-[26px] font-bold">Cl!cked V2 Api</h2>
           <p className="mb-5 text-md sm:text-lg text-gray-900 text-opacity-65 font-mono">
             Developed to cater the Cl!ck React Web app for its authentication and and dynamic contents it is also used in the Cl!cked Mobile
             Application it is also using MVC Structure.
@@ -156,7 +156,7 @@ export default function WebProjects() {
             <span className="text-xs text-[#33FF33] font-mono font-bold bg-gray-700 shadow-gray-700/50 shadow-md rounded-md px-2 py-1">&gt; Shell Script</span>
             <span className="text-xs text-white font-bold bg-[#027DFD] shadow-md shadow-[#027DFD]/50 rounded-md px-2 py-1">Flutter</span>
           </div>
-          <h1 className="mt-8 text-[26px] font-bold">Shell Script for Flutter Architecture</h1>
+          <h2 className="mt-8 text-[26px] font-bold">Shell Script for Flutter Architecture</h2>
           <p className="mb-5 text-md sm:text-lg text-gray-900 text-opacity-65 font-mono">
             I created a bash script for the purpose of automating the the lengthy process of creating a Clean Architecture and MVC Architecture
             file structure in Flutter development. It eases up the development time and the developer can focus more on creating logic intead of

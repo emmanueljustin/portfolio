@@ -11,7 +11,7 @@ export default function Projects() {
       <div className="py-20 px-5 w-full overflow-hidden">
         <div className="flex flex-col justify-center items-center">
           <div className='mb-10 w-full md:w-1/2 text-center'>
-            <h1 id="Projects" className="text-[35px] text-gray-900 font-extrabold">Projects/Work</h1>
+            <h2 id="Projects" className="text-[35px] text-gray-900 font-extrabold">Projects/Work</h2>
             <p className="mt-5 text-lg text-gray-900 text-opacity-65 font-mono">
               Here are the list of projects that I created and participated in development
             </p>
@@ -20,10 +20,10 @@ export default function Projects() {
           {/* <div className="relative border rounded-full flex justify-center items-center overflow-hidden font-bold hover:cursor-pointer">
 
             <div onClick={() => setToggle(false)} className={`${!toggle ? `bg-sky-400` : `bg-transparent`} px-5 py-3 rounded-full transition-all ease-in-out duration-500`}>
-              <h1>Mobile</h1>
+              <h3>Mobile</h3>
             </div>
             <div onClick={() => setToggle(true)} className={`${toggle ? `bg-sky-400` : `bg-transparent`} px-5 py-3 rounded-full transition-all ease-in-out duration-500`}>
-              <h1>Web/Script</h1>
+              <h3>Web/Script</h3>
             </div>
           </div> */}
           <label className="relative inline-flex cursor-pointer items-center">

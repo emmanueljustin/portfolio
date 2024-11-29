@@ -18,8 +18,8 @@ export default function QuoteContainer(props: Props) {
             &quot;{props.testimonial}&quot;
           </p>
           <div className="mt-auto">
-            <h1 className="mt-5 text-[17px] sm:text-[19px] text-gray-300 font-bold">&ndash; {props.name}</h1>
-            <h2 className="text-[13px] sm:text-[17px] text-gray-300 font-bold">{props.position}</h2>
+            <h2 className="mt-5 text-[17px] sm:text-[19px] text-gray-300 font-bold">&ndash; {props.name}</h2>
+            <h3 className="text-[13px] sm:text-[17px] text-gray-300 font-bold">{props.position}</h3>
           </div>
         </div>
       </div>

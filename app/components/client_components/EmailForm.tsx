@@ -73,9 +73,9 @@ export default function EmailForm() {
           <div className="flex justify-between items-center">
             <div className="flex items-center">
               <i className="fa-solid fa-circle-exclamation fa-xl text-red-600 mr-3" />
-              <h1 className="text-md">
+              <h3 className="text-md">
                 {error}
-              </h1>
+              </h3>
             </div>
             <div className="hover:cursor-pointer text-gray-700 active:text-opacity-65" onClick={() => setError(null)}>
               <i className="fa-solid fa-circle-xmark fa-lg" />
@@ -90,9 +90,9 @@ export default function EmailForm() {
               <i
                 className={message == 'success' ? `fa-solid fa-circle-check fa-xl text-green-700 mr-3` : `fa-solid fa-circle-exclamation fa-xl text-red-600 mr-3`}
               />
-              <h1 className="text-lg">
+              <h3 className="text-lg">
                 {message == 'success' ? `Message was successfully sent` : `Oops something went wrong. Try again later`}
-              </h1>
+              </h3>
             </div>
             <div className="hover:cursor-pointer text-gray-700 active:text-opacity-65" onClick={() => setShow(false)}>
               <i className="fa-solid fa-circle-xmark fa-lg" />

@@ -8,7 +8,7 @@ export default function WorkExperience() {
       <div className='py-20 px-5 sm:px-20 w-full'>
         <div className='flex flex-col justify-center items-center'>
           <div className='w-full md:px-0 md:w-1/2 text-center'>
-            <h1 id="Experience" className='text-[35px] text-gray-900 font-extrabold'>Work Experience</h1>
+            <h2 id="Experience" className='text-[35px] text-gray-900 font-extrabold'>Work Experience</h2>
           </div>
         </div>
         <ul className="block mt-20 mx-auto w-full md:w-3/4 lg:hidden">
@@ -70,7 +70,7 @@ export default function WorkExperience() {
           <Image 
               src={placeHolder1}
               className='object-cover rounded-md h-[350px] w-full'
-              alt='Image from Freepik'
+              alt='Freepik image laptop'
             />
           </div>
 
@@ -78,7 +78,7 @@ export default function WorkExperience() {
           <Image 
               src={placeHolder2}
               className='object-cover rounded-md h-[350px] w-full'
-              alt='Image from Freepik'
+              alt='Freepik image art'
             />
           </div>
           <div className='flex flex-col justify-center items-start'>
@@ -104,7 +104,7 @@ export default function WorkExperience() {
           <Image 
               src={placeHolder1}
               className='object-cover rounded-md h-[350px] w-full'
-              alt='Image from Freepik'
+              alt='Freepik image device'
             />
           </div>
         </div>
