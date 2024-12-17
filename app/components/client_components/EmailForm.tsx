@@ -103,12 +103,12 @@ export default function EmailForm() {
         <div className="flex flex-col items-start justify-start">
           <div className="w-full space-y-5">
             <div>
-              <p className="text-white">Name</p>
+              <p className="text-white">Full Name</p>
               <input 
                 type="text"
                 className="w-full rounded-md px-3 py-2"
                 name="Name"
-                placeholder="Name"
+                placeholder="e.g. Juan Dela Cruz"
               />
             </div>
             <div>
@@ -117,7 +117,7 @@ export default function EmailForm() {
                 type="email"
                 className="w-full rounded-md px-3 py-2"
                 name="Email"
-                placeholder="E-mail"
+                placeholder="e.g. john@yopmail.com"
               />
             </div>
             <div>
