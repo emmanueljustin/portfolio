@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Host: https://emmanuel-portfolio-jet.vercel.app
+
+Sitemap: https://emmanuel-portfolio-jet.vercel.app/sitemap.xml
