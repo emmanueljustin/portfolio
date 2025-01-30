@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import profilePic from '../assets/emmanuel.jpg'
+import profilePic from '../assets/emmanuel.webp'
 
 export default function HomeIntro() {
   return (
