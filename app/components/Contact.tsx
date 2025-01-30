@@ -27,7 +27,7 @@ export default function Contact() {
 
           </div>
           <div className="mt-20">
-            <h3 className="text-white font-semibold">&copy; 2024 Atienza. All Rights Reserved.</h3>
+            <h3 className="text-white font-semibold">&copy; 2025 Atienza. All Rights Reserved.</h3>
           </div>
         </div>
       </div>
