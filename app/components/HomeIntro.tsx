@@ -15,11 +15,13 @@ export default function HomeIntro() {
               />
             </div>
             <div className='relative flex flex-col justify-center select-none text-center lg:text-left'>
-              <h1 className="text-[21px] sm:text-[27px] lg:text-[29px] xl:text-[35px] text-white font-extrabold">Emmanuel Justin Atienza</h1>
+              <h1 className="text-[21px] sm:text-[27px] lg:text-[29px] xl:text-[40px] text-white font-extrabold">Emmanuel Justin Atienza</h1>
               <h2 className="mt-1 sm:mt-3 text-base md:text-lg lg:text-xl text-white font-bold">Software Engineer - FullStack(Mobile)</h2>
               <p className='mt-5 text-base lg:text-lg text-white text-opacity-65 font-mono'>
-                I am a software developer with 3 years of work experience mainly focusing on Mobile
-                development. I am also familiar in development of web appplication and back end REST API.
+                I’m a software engineer with 4 years of experience, starting out in mobile development
+                and growing into a full-stack role where I work across both frontend and backend.
+                I enjoy building seamless user experiences backed by solid, scalable systems, and I
+                focus on writing clean, maintainable code that delivers real impact.
               </p>
               <div className='mt-10 mb-10 md:mb-none'>
                 <a 

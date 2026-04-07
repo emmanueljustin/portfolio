@@ -20,9 +20,11 @@ export default function WorkExperience() {
               <a href="https://en.hipe.asia/" className="text-[30px] font-bold hover:text-[#2190AE]" target="_blank">HiPE Japan Inc.</a>
               <h2 className="text-[20px] text-gray-900 font-mono">Software Engineer (Sep 2024 - Present)</h2>
               <p className="mt-5 text-lg text-gray-900 text-opacity-65 font-mono">
-                My day to day task revolves around learning new technologies mainly focusing on web development and backend development.
-                In this company I learned on how to develop web application using ReactJS, VueJs, and Blazor as for the backend I created numerous
-                REST API such as Laravel, Dotnet, and Java Spring boot.
+                I am responsible for developing new API endpoints using FastAPI within a Python-based microservices
+                architecture, while also implementing frontend designs in CakePHP as part of a monolithic system.
+                I handle both backend and frontend tasks, ensuring seamless integration between services. Additionally,
+                I focus on SEO by identifying effective keywords and leveraging AI tools to generate and optimize website
+                content.
               </p>
             </div>
           </li>
@@ -61,9 +63,11 @@ export default function WorkExperience() {
             <a href="https://en.hipe.asia/" className="text-[30px] font-bold hover:text-[#2190AE]" target="_blank">HiPE Japan Inc.</a>
             <h2 className="text-[20px] text-gray-900 font-mono">Software Engineer (Sep 2024 - Present)</h2>
             <p className="mt-5 text-lg text-gray-900 text-opacity-65 font-mono">
-              My day to day task revolves around learning new technologies mainly focusing on web development and backend development.
-              In this company I learned on how to develop web application using ReactJS, VueJs, and Blazor as for the backend I created numerous
-              REST API such as Laravel, Dotnet, and Java Spring boot.
+              I am responsible for developing new API endpoints using FastAPI within a Python-based microservices
+              architecture, while also implementing frontend designs in CakePHP as part of a monolithic system.
+              I handle both backend and frontend tasks, ensuring seamless integration between services. Additionally,
+              I focus on SEO by identifying effective keywords and leveraging AI tools to generate and optimize website
+              content.
             </p>
           </div>
           <div className='flex justify-center items-center'>
